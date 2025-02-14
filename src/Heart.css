@@ -1,0 +1,6 @@
+.heart-container {
+  font-family: monospace;
+  white-space: pre; /* Используем для сохранения пробелов */
+  line-height: 1.1; /* Устанавливаем высоту строки для лучшего отображения */
+  color: red; /* Цвет текста сердечка */
+}
